@@ -9,8 +9,8 @@ function Darkmode(){
   const[myName , setMyName]= useState("name");
 
   const toggleTheme = () =>{
-       myTheme=="light-mode"  ? setMyTheme("dark-mode") : setMyTheme("light-mode");
-       myName=="name" ? setMyName("dark-name") : setMyName("name");
+       myTheme==="light-mode"  ? setMyTheme("dark-mode") : setMyTheme("light-mode");
+       myName==="name" ? setMyName("dark-name") : setMyName("name");
       
     };
 
