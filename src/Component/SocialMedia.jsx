@@ -40,10 +40,10 @@ function SocialMedia() {
   return (
     <Socialmedia>
     <div className="social-box">
-        <a href="https://github.com/AbhinawKumarDeonath" target="_blank" className="social-link"><AiFillGithub /></a>
-        <a href="https://www.instagram.com/heyabhinaw/" target="_blank" className="social-link"><AiFillInstagram/></a>
-        <a href="https://wa.me/918319054189/" target="_blank" className="social-link"><IoLogoWhatsapp/></a>
-        <a href="https://www.linkedin.com/in/abhinawdeonath/" target="_blank" className="social-link"><IoLogoLinkedin/></a>
+        <a href="https://github.com/AbhinawKumarDeonath" target="_blank" rel="noreferrer" className="social-link"><AiFillGithub /></a>
+        <a href="https://www.instagram.com/heyabhinaw/" target="_blank" rel="noreferrer" className="social-link"><AiFillInstagram/></a>
+        <a href="https://wa.me/918319054189/" target="_blank" rel="noreferrer" className="social-link"><IoLogoWhatsapp/></a>
+        <a href="https://www.linkedin.com/in/abhinawdeonath/" rel="noreferrer" target="_blank" className="social-link"><IoLogoLinkedin/></a>
     </div>
 
     </Socialmedia>

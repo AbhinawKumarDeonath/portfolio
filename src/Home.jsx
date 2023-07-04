@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import { Player } from "@lottiefiles/react-lottie-player";
 import { MdOutlineFileDownload } from "react-icons/md";
 const Home = () => {
   const HomeStyle = styled.section`
