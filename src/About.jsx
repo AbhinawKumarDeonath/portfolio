@@ -110,7 +110,7 @@ const About = () => {
               As a highly skilled frontend developer, I am dedicated to crafting captivating user experiences through the seamless fusion of design and functionality. With an unwavering commitment to innovation, I strive to bring visions to life, pushing the boundaries of web development to create immersive digital journeys that captivate, engage, and inspire.
               </p>
               <div className="resumeBox">
-                <a href="#" className="resume">
+              <a href="Abhinaw Ku Deonath.pdf" className="resume" download="Abhinaw Ku Deonath.pdf">
                   Download CV
                   <MdOutlineFileDownload />
                 </a>

@@ -3,6 +3,10 @@ import styled from "styled-components";
 import { motion } from "framer-motion";
 import { MdOutlineFileDownload } from "react-icons/md";
 const Home = () => {
+
+  // const resume =()=>{
+
+  // }
   const HomeStyle = styled.section`
    .name 
    {
@@ -161,10 +165,11 @@ const Home = () => {
               <br />  with a flair for creating stunning and intuitive user interfaces. With a keen eye for design and expertise in HTML, CSS, JavaScript and React. I specialize in bringing websites to life, ensuring seamless user experiences and captivating visuals. Let's collaborate and make the web a more beautiful and engaging place together!
               <br />
               <div className="resumeBox">
-                <a href="#" className="resume">
+                <a href="Abhinaw Ku Deonath.pdf" className="resume" download="Abhinaw Ku Deonath.pdf">
                   Download CV
                   <MdOutlineFileDownload />
                 </a>
+                
               </div>
             </p>
           </div>
